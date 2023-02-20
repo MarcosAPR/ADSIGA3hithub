@@ -1,0 +1,45 @@
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Administrador.resources
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Cliente.resources
+c:\users\pc17lab4\documents\visual studio 2015\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Secrearia.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Administrador.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Cliente.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Secrearia.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Factura.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Reporte.resources
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.cache
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\RdlCompile.compiled
+C:\Users\PC17LAB4\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Crud1Crud2.resources
